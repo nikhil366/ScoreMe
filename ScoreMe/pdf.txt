@@ -1,0 +1,93 @@
+Acknowledgement Number : 275444580310818
+Assessment Year : 2018-19
+Type of House Property
+(i) Gross rent received/ receivable/ letable value
+0
+(ii) Tax paid to local authorities
+0
+(iii) Annual Value (i - ii)
+0
+(iv) 30% of Annual Value
+0
+(v) Interest payable on borrowed capital
+0
+B2
+House Property
+(vi) Income chargeable under the head 'House Property' (iii - iv - v)
+0
+B3
+Income from Other Sources
+0
+B4
+Gross Total Income (B1+B2+B3)(If loss, put the figure in negative)
+553600
+PART C - DEDUCTIONS AND TAXABLE TOTAL INCOME (Refer instructions for Deduction limit as per Income-tax Act)
+S.No.
+Section
+Amount
+System Calculated
+80C - Life insurance premia, deferred annuity, contributions to provident
+fund, subscription to certain equity shares or debentures, etc.
+0
+0
+80CCC - Payment in respect Pension Fund
+0
+0
+80CCD(1) - Contribution to pension scheme of Central Government
+0
+0
+80CCD(1B) - Contribution to pension scheme of Central Government
+0
+0
+80CCD(2) - Contribution to pension scheme of Central Government by
+employer
+0
+0
+80CCG - Investment made under an equity savings scheme
+0
+0
+80D
+(A) Health Insurance Premium -
+0
+(B) Medical expenditure - Self and family (including senior and very senior
+citizen)
+18450
+(C) Preventive health check-up -
+0
+18450
+80DD - Maintenance including medical treatment of a dependent who is a
+person with disability -
+0
+0
+80DDB - Medical treatment of specified disease -
+0
+0
+80E - Interest on loan taken for higher education
+0
+0
+80EE - Interest on loan taken for residential house property
+0
+0
+80G - Donations to certain funds, charitable institutions, etc
+0
+0
+80GG - Rent paid
+0
+0
+80GGA - Certain donations for scientific research or rural development
+0
+0
+80GGC - Donation to Political party
+0
+0
+80RRB - Royalty on patents
+0
+0
+80QQB - Royalty income of authors of certain books.
+0
+0
+80TTA - Income from Interest on saving bank Accounts
+0
+0
+Page 
+2
